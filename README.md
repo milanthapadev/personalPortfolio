@@ -1,6 +1,4 @@
-## Live Preview
-
-[Click Here :](https://www.milanthapa1996.com.np/)
+[## Live Preview](https://www.milanthapa1996.com.np/)
    
 ## Tech Used
 
