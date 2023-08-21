@@ -1,6 +1,6 @@
 ## Live Preview
 
-Click Here : 	[Markdown - Link](https://www.milanthapa1996.com.np/)
+[Click Here :](https://www.milanthapa1996.com.np/)
    
 ## Tech Used
 
