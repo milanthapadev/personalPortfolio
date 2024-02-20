@@ -33,20 +33,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Software Engineer Intern (Reduct Nepal Pvt. Ltd.)",
-    location: "Kathmandu, Nepal",
+    title: "Junior Software Developer (Tuna Technology Pvt Ltd.)",
+    location: "Rupandehi, Nepal",
     description:
-      "I became an intern for 3 months at this company as part of my university internship.",
+      "I worked as a Junior Software Developer in this company. I also upskilled to the full stack.",
     icon: React.createElement(FaReact),
-    date: "08/2020 - 11/2020",
-  },
-  {
-    title: "Software Engineer (Real Times Solution Pvt. Ltd.)",
-    location: "Lalitpur, Nepal",
-    description:
-      "I worked as a Software Engineer for 14 months in this company. I also upskilled to the full stack.",
-    icon: React.createElement(FaReact),
-    date: "12/2020 - 02/2022",
+    date: "11/2020 - 12/2021",
   },
   {
     title: "Full-Stack Developer (Maddati Tech Pvt. Ltd.)",
@@ -54,7 +46,7 @@ export const experiencesData = [
     description:
       "I'm now a full-stack developer working as a full-time. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "02/2022 - present",
+    date: "12/2021 - 02/2024",
   },
 ] as const;
 
