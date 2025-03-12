@@ -37,8 +37,8 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Junior Software Developer (Tuna Technology Pvt Ltd.)",
-    location: "Rupandehi, Nepal",
+    title: "Junior Software Developer (Real TIme Solutions Pvt. Ltd.)",
+    location: "Lalitpur, Nepal",
     description:
       "I worked as a Junior Software Developer in this company. I also upskilled to the full stack.",
     icon: React.createElement(FaReact),
@@ -50,7 +50,7 @@ export const experiencesData = [
     description:
       "I'm now a full-stack developer working as a full-time. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "12/2021 - 02/2024",
+    date: "12/2021 - Present",
   },
 ] as const;
 
